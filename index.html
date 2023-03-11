@@ -8,11 +8,18 @@
         <link href="css/styles.css" rel="stylesheet">
         <script src="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js"></script>
         <script src="js/map.js"></script>
+        <script src="js/change_buttons.js"></script>
     </head>
     <body onload="makeMap()">
-        <div id="home">
-            <a href="index.html">Home</a>
-            <a href="about_us.html">About Us</a>
+        <div class="tabs">
+            <button class="tabslink" onclick="openTab(event, 'Home')" id="defaultOpen">Home</button>
+            <button class="tabslink" onclick="openTab(event, 'About_Us')">About Us</button>
+        </div>
+        <div id="Home" class="tabcontent">
+            <h3>Home</h3>
+        </div>
+        <div id="About_Us" class="tabcontent">
+            <h3>About Us</h3>
         </div>
         <div id="map"></div>
     </body>

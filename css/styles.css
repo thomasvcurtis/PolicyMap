@@ -1,11 +1,44 @@
-#home { 
-    position: absolute;
-    padding-left: 50%;
-}
-
 #map { 
     position: absolute;
-    top: 0;
-    bottom: 0;
-    width: 50%;
+    top: 10px;
+    bottom: 10px;
+    left: 10px;
+    right: 10px;
+    width: 52.5%;
+    border: 1px solid #ccc;
+}
+
+.tabs {
+    margin-left: 55%;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+.tabs button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 15px;
+
+}
+.tabs button:hover {
+    background-color: #ddd;
+}
+
+.tabcontent {
+    display:none;
+    margin-left: 55%;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+    animation: fadeEffect 1s;
+}
+
+@keyframes fadeEffect {
+    from { opacity: 0; }
+    to { opacity: 1; }
 }
