@@ -1,31 +1,38 @@
 <!DOCTYPE html>
 <html>
+    <!-- Head Definition -->
     <head>
         <meta charset="utf-8">
         <title>Envirowatch</title>
         <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+        <!-- MapBox API -->
         <link href="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css" rel="stylesheet">
-        <link href="css/styles.css" rel="stylesheet">
         <script src="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js"></script>
+        <!-- Own CSS and JavaScript files -->
+        <link href="css/styles.css" rel="stylesheet">
         <script src="js/map.js"></script>
         <script src="js/change_buttons.js"></script>
     </head>
+    <!-- Body Definition -->
     <body onload="makeMap()">
         <div class="header">
             <h1>Envirowatch</h1>
         </div>
+        <!-- Beginning of menu definition -->
         <div class="tabs">
             <button class="tabslink" onclick="openTab(event, 'Current_Petition')" id="tagElement">Current Petition</button>
             <button class="tabslink" onclick="openTab(event, 'About_Us' )" id="defaultOpen">About Us</button>
         </div>
+        <!-- Current Petition Tab -->
         <div id="Current_Petition" class="tabcontent">
             <h3 id="h3_hide">Current Petition</h3>
             <p id="p_hide">You haven't selected a partition!</p>
-            <p id="petition_info">Test</p>
+            <p id="petition_info"></p>
         </div>
+        <!-- About Us Tab -->
         <div id="About_Us" class="tabcontent">
             <h4>About Us</h4>
-            <p>Welcome to Enviropetition_infowatch, a website dedicated to showcasing petitions on change.org related to cleaning up ecological disasters,
+            <p>Welcome to Envirowatch, a website dedicated to showcasing petitions on change.org related to cleaning up ecological disasters,
                 preventing climate change, and promoting sustainability in all areas of life. <br /><br />
 
                 We are a group of passionate individuals who are committed to raising awareness about the environmental issues that are affecting 
@@ -46,11 +53,14 @@
                 future for all. Join us in making a difference today!
             </p>
         </div>
+        <!-- Opens the About Us tab by default -->
         <script>
             document.getElementById("defaultOpen").click();
         </script>
+        <!-- Div tags that hold the map -->
         <div id="map"></div>
     </body>
+    <!-- Footer Definition -->
     <footer>
         <p id="copyright"> &copy created by Bryant Whitaker, Colby Lilly, Kayla Senczyszyn, and Thomas Curtis</p>
     </footer>

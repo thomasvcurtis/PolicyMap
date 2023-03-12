@@ -1,36 +1,41 @@
 function makeMap() {
+    // MapBox API Access Token.
     mapboxgl.accessToken = 'pk.eyJ1IjoiY3JsaWxseSIsImEiOiJjbGY0YnBjbXEwcmd0M3NvNDQ0NzJrY243In0.y62PDs53srP8p8sj90g2XA';
-    //set bound to United States of America
-    const bounds = [
-        [-160.158985, 21.880392], //Hawaii
-        [-67.078542, 44.780716] // Maine
-    ];
 
+    // Creates and declares a map object to be used via the MapBox API.
     const map = new mapboxgl.Map({
         container: 'map', // container ID
-        // Choose from Mapbox's core styles, or make your own style with Mapbox Studio
-        style: 'mapbox://styles/crlilly/clf4ap806000601qdyny9z6kw', // style URL
-        center: [-101.31857987634056, 39.916663896170874], // starting position [lng, lat]
-        zoom: 3, // starting zoom
-        projection: 'mercator'
-        //maxBounds: bounds // boundary
+        // Style created using a dataset comprised of information collected on various petitions.
+        style: 'mapbox://styles/crlilly/clf4ap806000601qdyny9z6kw', // Style URL.
+        center: [-101.31857987634056, 39.916663896170874], // Starting position [lng, lat].
+        zoom: 3, // Starting zoom.
+        projection: 'mercator' // How the map presents itself.
     });
 
+    // Allows users to control the map via on-screen controls.
     map.addControl(new mapboxgl.NavigationControl());
     
+    // This click event allows the changing of the sidebar to view the current petition.
     map.on('click', (event) => {
+        // Acquires the required data in a JSON-like format.
         const features = map.queryRenderedFeatures(event.point, {
-            layers: ['temp-data']
+            layers: ['enviro-data']
         });
         if (!features.length) {
             return;
         }
+        // Takes the clicked-on object and converts it into an JSON-like Object that can be manipulated.
         const feature = features[0];
-        console.log(feature);
+        
+        // Selects the "Current Petition" window.
         document.getElementById("tagElement").click();
+
+        // Grabs the necessary information from the JSON-like Object.
         const title = feature.properties.title;
         const description = feature.properties.description;
         const url = feature.properties.URL;
+
+        // Inserts the HTML into the Current Petition IDed div tags.
         document.getElementById("Current_Petition").innerHTML =
         `<h4>${title}</h4>
         <p>${description}</p>
