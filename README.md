@@ -39,7 +39,7 @@
 
 ## How to use
 
-To clone this repository , you'll need [Git](https://git-scm.com). Open index.html file in web browser 
+To clone this repository, you'll need [Git](https://git-scm.com). Open index.html file in web browser 
 
 ```bash
 # Clone this repository
