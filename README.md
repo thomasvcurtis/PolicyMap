@@ -16,7 +16,7 @@
 
 </p>
 
-![screenshot](images/PolicyMap.gif)
+![screenshot](images/PolicyMapDemo.gif)
 
 ## Inspiration
 
