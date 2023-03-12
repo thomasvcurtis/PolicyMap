@@ -1,4 +1,4 @@
-# PolicyMap
+<center># PolicyMap</center>
 
 
 <h1 align="center">
@@ -10,8 +10,6 @@
 </h1>
 
 <h4 align="center">A webpage that allows people to directly impact issues on a national scale.<br><a href="https://devpost.com/software/envirowatch-pjauc6" target="_blank">DevPost</a>.</h4>
-
-<br>
 
 <p align="center">
   <a href="#Inspiration">Inspiration</a> •
