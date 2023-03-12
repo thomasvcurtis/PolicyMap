@@ -33,7 +33,7 @@
 
 <p>Website: http://envirowatch.tech/index.html</P>
 
-If website like does no longer work, clone this repository, you'll need [Git](https://git-scm.com). Open index.html file in web browser 
+If the website link does not work, clone this repository, you'll need [Git](https://git-scm.com). Open index.html file in web browser 
 ```bash
 # Clone this repository
 $ git clone https://github.com/thomasvcurtis/PolicyMap
