@@ -7,7 +7,7 @@
 
 <h4>A webpage that allows people to directly impact issues on a national scale.<br><a href="https://devpost.com/software/envirowatch-pjauc6" target="_blank">DevPost</a>.</h4>
 
-<p align="center">
+<p>
   <a href="#Inspiration">Inspiration</a> •
   <a href="#What-it-does">What it Does</a> •
   <a href="#How-we-build-it">How we build it</a> •
