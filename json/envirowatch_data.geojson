@@ -1,0 +1,989 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Quarry Policy",
+        "description": "A Quarry is being planned to be built in Beulah Alabama that will damage the surrounding ecosystem.",
+	  "URL": "https://www.change.org/p/kay-ivey-stop-the-quarry-in-beulah-alabama"
+      },
+      "geometry": {
+        "coordinates": [-85.18190485910621, 32.711712194648435],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Conataminated Drinking Water From McDonalds",
+        "description": "Drinking water in Lawrence County Alabama has been contamintated with toxic chemicals and Mcdonalds Packaging for food carries these chemicals that could contaminate other places similarily.",
+	  "URL": "https://www.change.org/p/mcdonald-s-stop-using-packaging-that-contaminates-drinking-water"
+      },
+      "geometry": {
+        "coordinates": [-87.29211684884764, 34.50496168659036],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bonnet Carre' Spillway",
+        "description": "A Spillway is causing pollution to local marine life causing marine life mortality. The Mississipi Sound Coalition is attempting to pass legislature to restore the natural ecosystem of the local marine life.",
+	  "URL": "https://www.change.org/p/united-states-congress-tell-congress-to-adopt-the-mississippi-sound-lake-pontchartrain-protection-act-now-180de16f-3c14-4ead-bbfc-61ce11400e09"
+      },
+      "geometry": {
+        "coordinates": [-90.06060681007024, 30.17795435230634],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Willow Project",
+        "description": "The Willow Project is an oil drilling project in Alaska that will affect millions of animals and the environment around them.",
+	  "URL": "https://www.change.org/p/stop-the-willow-project-8f6d455a-5dcd-4725-876f-fbcdc0bc2392"
+      },
+      "geometry": {
+        "coordinates": [-151.1046235133477, 64.79442259844237],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Uranium Mine at Grand Canyon",
+        "description": "A mine is being reopened in the Grand Canyon for uranium that could contaminate groundwater, hurt local wildlife, and hurt the people of Arizona.",
+	  "URL": "https://www.change.org/p/stop-the-uranium-mine-at-the-grand-canyon"
+      },
+      "geometry": {
+        "coordinates": [-112.68785118350075, 36.23588244831995],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Flaming Gorge Pipeline",
+        "description": "This project on the Colorado River could harm the local ecosystem along with increasing the price of water to an unreasonable price.",
+	  "URL": "https://www.change.org/p/ask-the-state-of-colorado-to-protect-the-green-and-colorado-rivers-say-no-to-flaming-gorge-pipeline"
+      },
+      "geometry": {
+        "coordinates": [-104.96277457923495, 39.754700450938266],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Highway Construction Destroys Local Cave Systems",
+        "description": "Highway construction occuring in this area can affect the local wildlife and hurt local cave wildlife.",
+ 	  "URL": "https://www.change.org/p/asa-hutchenson-save-the-caves-old-spanish-treasure-cave"
+      },
+      "geometry": {
+        "coordinates": [-95.59939286113107, 33.13838373693903],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rat Poision Pollution in Marine Sanctuary",
+        "description": "Islands off the coast of California have current legislature being proposed for the disposal of rat poison that could negatively impact the surrounding wildlife.",
+	  "URL": "https://www.change.org/p/formal-request-to-the-california-coastal-commission-stop-the-poison-drop-on-the-farallon-islands"
+      },
+      "geometry": {
+        "coordinates": [-122.98396683563729, 37.836269960188275],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Water Issue In California",
+        "description": "An advocation for legislature to help with the current water crisis in California and the lack of help for water infrastructure.",
+	  "URL": "https://www.change.org/p/governor-brown-members-of-the-california-legislature-mayors-of-cities-in-california-and-directors-stop-punishing-california-residents-the-water-problem-is-your-fault-and-your-responsibility-to-fix"
+      },
+      "geometry": {
+        "coordinates": [-121.48903673723393, 38.59562332180903],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seismic Imaging Project",
+        "description": "A seismic imaging project to measure fault lines will involve hurting and killing animals using their imaging processes.",
+	  "URL": "https://www.change.org/p/halt-the-central-coastal-california-seismic-imaging-project"
+      },
+      "geometry": {
+        "coordinates": [-119.67406756563639, 35.13675502720214],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "American Tin Cannery Hotel Construction",
+        "description": "The construction and urbanization of this area home to wildlife such as harbor seal pups would cause irreversible damage.",
+	  "URL": "https://www.change.org/p/f-preserve-america-s-last-hometown-pacific-grove-california-save-harbor-seal-pups-save-7"
+      },
+      "geometry": {
+        "coordinates": [-121.92730622383205, 36.622644658215286],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Offshore Drilling",
+        "description": "Legislature aims to open federal waters to oil and gas drilling sales. For the sake of the environment, this should not be allowed due to the destruction it would cause.",
+	  "URL": "https://www.change.org/p/stop-offshore-oil-and-gas-drilling"
+      },
+      "geometry": {
+        "coordinates": [-120.06991006482819, 34.464147744084975],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Destruction of Wolf Creek Pass",
+        "description": "Private developers have started construction over Wolf Creek Pass, causing the displacement of precious wildlife.",
+	  "URL": "https://www.change.org/p/tom-tidwell-chief-usda-forest-service-stop-the-destruction-of-wolf-creek-pass-in-sw-colorado"
+      },
+      "geometry": {
+        "coordinates": [-106.80203894894386, 37.483060095166394],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oil and Gas Drilling at Great Sand Dunes Park",
+        "description": "The Bureau of Land Management plans to auction thousands of acres right outside of the Great Sand Dunes National Park. Oil and gas developments cause pollution and displace local wildlife and should not be supported.",
+	  "URL": "https://www.change.org/p/bureau-of-land-management-prevent-oil-and-gas-drilling-near-the-great-sand-dunes-national-park"
+      },
+      "geometry": {
+        "coordinates": [-105.58166969805966, 37.7956821492207],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Newark Natural Gas Power Plant",
+        "description": "A new gas power plant in this residential area near University of Delaware would negatively impact the living conditions of the surrounding area.",
+	  "URL": "https://www.change.org/p/university-of-delaware-president-harker-reject-the-newark-natural-gas-power-plant"
+      },
+      "geometry": {
+        "coordinates": [-75.75057089556378, 39.677980967157545],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Delaware River Pollution",
+        "description": "An asphalt recycling and storage facility is under construction and could threaten the community with harmful runoff.",
+	  "URL": "https://www.change.org/p/pohatcong-s-land-use-board-township-officials-keep-the-delaware-and-pohat-s-waters-clean"
+      },
+      "geometry": {
+        "coordinates": [-75.56013727332558, 39.6794669456319],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Estuaries Being Polluted",
+        "description": "The US Army Corp of Engineers and the South Florida Water Management District are putting harmful discharges into local estuaries affecting the quality of water.",
+	  "URL": "https://www.change.org/p/rick-scott-clean-water-in-florida"
+      },
+      "geometry": {
+        "coordinates": [-80.2190692827913, 27.20193353713101],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Endangered Florida Panther Habitat Urbanization",
+        "description": "45 Thousand acres of land are going to be urbanized with suburban developments if recent legislature is finalized.",
+	  "URL": "https://www.change.org/p/u-s-fish-and-wildlife-service-45-000-acres-of-florida-panther-habitat-may-be-lost-forever"
+      },
+      "geometry": {
+        "coordinates": [-80.79425188872185, 25.614043623509833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fracking Plant Construction",
+        "description": "Fracking Plant Construction is set to begin 2023 that would harm the local environment and prevent them from reaching their current climate change goals.",
+	  "URL": "https://www.change.org/p/uf-board-of-trustees-stop-the-university-of-florida-s-methane-dependent-fracked-gas-plant"
+      },
+      "geometry": {
+        "coordinates": [-82.35493391028128, 29.643750877144264],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tugalo Dam",
+        "description": "The Tugalo Dam provides very little electricity to the state of Georiga yet costs millions of dollars to keep running and harms the environment in the process.",
+	  "URL": "https://www.change.org/p/georgia-power-remove-the-tugalo-dam"
+      },
+      "geometry": {
+        "coordinates": [-83.36153436027332, 34.714652167899],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ban the Sale of Coral Damaging Sunscreen",
+        "description": "Certain chemicals in different sunscreens cause damages to coral reefs and are entirely unnecessary.",
+	  "URL": "https://www.change.org/p/ban-the-sale-of-coral-damaging-sunscreen-in-hawaii"
+      },
+      "geometry": {
+        "coordinates": [-155.63602682014024, 19.27982001295721],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Preserve Koloa Ahupua",
+        "description": "The urbanization of this area harms an old hawaiian village along with the local ecosystem near a federal preserve.",
+	  "URL": "https://www.change.org/p/stop-kauanoe-o-koloa"
+      },
+      "geometry": {
+        "coordinates": [-159.46136737959466, 21.887096571244808],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Local Recycling Issue",
+        "description": "Lack of infrastructure for recylcing locally causes damages to the environment as there is no place for the waste to go.",
+	  "URL": "https://www.change.org/p/clear-creek-disposal-implement-recycling-program-in-stanley-idaho"
+      },
+      "geometry": {
+        "coordinates": [-114.93523149304289, 44.21581339873866],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Save The Wetlands",
+        "description": "Legislation aims to repeal laws protecting Indiana's Wetlands but it is a crucial wildlife environment that should be perserved.",
+	  "URL": "https://www.change.org/p/environmental-protection-agency-save-the-wetlands-reject-indiana-sb-389"
+      },
+      "geometry": {
+        "coordinates": [-86.53965606358007, 38.33212185352683],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ethanol Plant Construction",
+        "description": "Local ethanol plant construction hurts local community and environment. There have also been previous pollution violations with the same constructors of other plants.",
+	  "URL": "https://www.change.org/p/lehowley92-gmail-com-stop-the-ethanol-plant-in-fairland-indiana"
+      },
+      "geometry": {
+        "coordinates": [-85.86565440097965, 39.59846841274312],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Public Hearing on MAC Construction Asphalt Plant",
+        "description": "Previous plants have been causing concern with pollution and emissions affecting the quality of life of residents. With construction of more plants, the public deserve a voice to explain their concerns about more plants and more emissions.",
+	  "URL": "https://www.change.org/p/indiana-department-of-environmental-management-idem-hold-a-public-hearing-on-the-proposed-mac-construction-asphalt-plant-in-harrison-county-indiana"
+      },
+      "geometry": {
+        "coordinates": [-86.13255789706501, 38.22207560799733],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Worle Creek Corridor Urban Development",
+        "description": "An Urban Growth plan aims to destroy two creeks and the surrounding ecosystem for urban growth despite the area being labeled environmentally sensitive.",
+	  "URL": "https://www.change.org/p/save-the-worle-creek-corridor"
+      },
+      "geometry": {
+        "coordinates": [-93.63255139304694, 42.031157363358126],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Easter Lake Project",
+        "description": "The Easter Lake Project will involve plant removal and wildlife destruction causing unnecessary damage to the local environment",
+	  "URL": "https://www.change.org/p/city-of-des-moines-supervisor-please-help-save-the-wildlife-and-their-habitat-in-the-yeader-creek-forest-area-in-iowa"
+      },
+      "geometry": {
+        "coordinates": [-93.60728513400994, 41.53903677890376],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Urbanization of Johnson County",
+        "description": "Millions of square feet of warehouses are being constructed that would harm the only local source of drinking water along with the surrounding area.",
+	  "URL": "https://www.change.org/p/protect-rural-joco-zoning-stop-northpoint-and-edgerton-rezoning"
+      },
+      "geometry": {
+        "coordinates": [-94.96499002336923, 38.775877948822384],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Composting Waste Disposal Program",
+        "description": "The implementation of waste disposal for organic waste in Frankfort would clean thousands of pounds of organic waste and save the local environment from organic waste pollution.",
+	  "URL": "https://www.change.org/p/capital-day-school-cds-7th-grade-science-class-a-call-to-improve-the-yard-waste-disposal-program-in-frankfort-kentucky"
+      },
+      "geometry": {
+        "coordinates": [-84.8712586366369, 38.19875360038779],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fracking in Louisiana Wetlands",
+        "description": "Fracking in the Louisiana Wetlands would damage the sole source of drinking water for miles around and ruin the positives the wetlands provide to the environment",
+	  "URL": "https://www.change.org/p/ban-fracking-in-louisiana-wetlands"
+      },
+      "geometry": {
+        "coordinates": [-90.03053075785043, 30.476720686451618],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cancer Alley Chemical Poisioning",
+        "description": "Formosa Plastics aims to create more plastic plants that pollute the air and water with cancer causing chemicals hurting both residents and wildlife alike.",
+	  "URL": "https://www.change.org/p/gov-edwards-stop-formosa-plastics-from-poisoning-residents-of-cancer-alley"
+      },
+      "geometry": {
+        "coordinates": [-90.97402822087749, 30.139549376752388],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Reduce Poland Spring Taking Water from Maine Town",
+        "description": "Poland Spring Water, owned by BlueTriton, wants to take nearly 60 million gallons of water from small Maine towns that are in a drought, due to Poland Spring's over-consumption of water.",
+	  "URL": "https://www.change.org/p/support-local-maine-town-to-stand-up-to-poland-spring-corporate-interests"
+      },
+      "geometry": {
+        "coordinates": [-70.62201316225611 ,43.63609800227455 ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Save Frenchman Bay and Acadia National Park from a Mega Cruise Ship Pier",
+        "description": "Frenchman Bay (and by extension, Acadia National Park) have been threatened by a proposal for a Bar Harbor Port Authority, allowing millions of dollars in bonds to be raised in order to finance a large mega cruise ship pier. No environmental studies have been done surrounding this project, and it is thought that the amount of environmental damage caused by this project will be massive",
+	  "URL": "https://www.change.org/p/sen-thibodeau-and-rep-gideon-maine-state-legislature-save-frenchman-bay-and-acadia-national-park-maine-from-a-mega-cruise-ships-pier"
+      },
+      "geometry": {
+        "coordinates": [-87.769775, 41.873683],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop Spraying Maine with Glyphosate",
+        "description": "Maine's forests are being sprayed with a chemical known as Glyphosate that harms the local vegetation and wildlife",
+	  "URL": "https://www.change.org/p/maine-state-house-stop-spraying-maine-with-glyphosate"
+      },
+      "geometry": {
+        "coordinates": [-68.389407195244, 46.66856359450094],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Save Graham Lake",
+        "description": "Graham Lake’s water is being drained consistently to power a dam causing adverse effects on aquatic life",
+	  "URL": "https://www.change.org/p/save-graham-lake-maine"
+      },
+      "geometry": {
+        "coordinates": [-68.39364228885013, 44.65679405888506],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Save Abingdon Woods",
+        "description": "Abingdon Woods is an incredibly beautiful (and important) part of the Chesapeake Bay ecosystem within Hartford County. However, the county's Development Advisory Board has approved the destruction of 326 acres of this forest, which would cause a large environmental disruption.",
+	  "URL": "https://www.change.org/p/harford-county-council-save-abingdon-woods-3a937cea-9e13-427d-a70c-448595c01e2e"
+      },
+      "geometry": {
+        "coordinates": [-76.30447978814323, 39.578309953420880],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Trash Receptacles for a Cleaner Community",
+        "description": "Cove Village in Essex county, Maryland has been plagued with an infestation of rats, due to the lack of proper outdoor disposal containers, causing a huge safety and health risk, not to mention making the environment aesthetically unappealing.",
+	  "URL": "https://www.change.org/p/operation-e-rat-icate"
+      },
+      "geometry": {
+        "coordinates": [-76.44023854452429, 39.30799578871937],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Save Communities Throughout Massachusetts by Denying the Northeast Energy Direct Project",
+        "description": "The Northeast Energy Direct Project is a natural gas pipeline that crosses through Massachusetts that would harm conservation land, local communities, and the environment throughout wildlife.",
+	  "URL": "https://www.change.org/p/save-communities-throughout-massachusetts-deny-this-pipeline"
+      },
+      "geometry": {
+        "coordinates": [-72.0639732338323, 42.42351998715272],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Don't Subsidize Pollution in Springfield",
+        "description": "Legislature aims to classify wood burning biomass incinerators like the one in Springfield as non emitting sources of energy despite that they can create more carbon emissions and pollution than coal plants.",
+	  "URL": "https://www.change.org/p/state-senator-michael-barrett-tell-the-massachusetts-legislature-don-t-subsidize-pollution-in-springfield"
+      },
+      "geometry": {
+        "coordinates": [-72.56282301525523, 42.10710318333434],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Deny Kohler Company the Use of Public State Lands for Private Profit in Wisconsin",
+        "description": "The Kohler Company wants to build a golf course in the middle of an environmental corridor, which means clearcutting 5 acres of the forest and destroying the wetlands.",
+	  "URL": "https://www.change.org/p/wisconsin-dnr-must-protect-our-environment-and-preserve-wisconsin-s-public-lands-tell-the-dnr-to-reconsider-the-land-swap-decision-and-keep-public-parks-public"
+      },
+      "geometry": {
+        "coordinates": [-87.713668, 43.746528],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Limit Nestle's Michigan Water Withdrawals",
+        "description": "Nestle aims to increase the amount of water they pump from aquifers past the amounts previously agreed upon by environmentalists and this increase in water pumping would harm the local wetland environment.",
+	  "URL": "https://www.change.org/p/limit-nestle-s-michigan-water-withdrawals"
+      },
+      "geometry": {
+        "coordinates": [-68.39364228885013, 44.65679405888506],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Protect the Sugar River & Badger State Trails from ATVs",
+        "description": "Locals are worried about bike trails in the area that will be negatively impacted by allowing ATVs access to the trails, which will cause erosion to the trails.",
+	  "URL": "https://www.change.org/p/dnr-protect-the-sugar-river-and-badger-state-trails-from-atvs"
+      },
+      "geometry": {
+        "coordinates": [-89.505821, 42.726069],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Preserve the Mining Moratorium Law",
+        "description": "Wisconsin legislature is proposing a repeal of a Mining Moratorium Law that would allow harmful practices of extracting metals from the waterways in the state at the expense of the water quality.",
+	  "URL": "https://www.change.org/p/wisconsin-legislature-preserve-the-mining-moratorium-law"
+      },
+      "geometry": {
+        "coordinates": [-89.404017, 43.069947],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop Strauss Brands from Building a Massive Slaughterhouse",
+        "description": "A slaughterhouse is going to be built that will cause pollution to the air, water, and land, which will affect the environmental and public health in the area.",
+	  "URL": "https://www.change.org/p/stop-strauss-brands-from-building-a-new-massive-slaughterhouse-more-info-and-donations-can-be-made-at-franklincommunityadvocates-org"
+      },
+      "geometry": {
+        "coordinates": [-88.058226, 42.872079],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop MN-DOT From Destroying Osceola's Cascade Falls and Wilke Glen",
+        "description": "The Minnesota Department of Transportation plans on building a bridge through a park in such a way that it would cause deforestation and divert the natural course of the river, harming the ecosystem.",
+	  "URL": "https://www.change.org/p/stop-mn-dot-from-destroying-osceola-s-cascade-falls-and-wilke-glen-91f72ea4-0fb9-4e65-bdab-9acc09227d50"
+      },
+      "geometry": {
+        "coordinates": [-92.704523, 45.320863],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop the Cog Railway from Building a Luxury Resort on Mount Washington",
+        "description": "A winter lodge is planned to be built in a very sensitive ecological area where 5 dozen rare species of plants and 2 rare species of butterflies live and even winter camping is not permitted currently due to the fragile conditions.",
+	  "URL": "https://www.change.org/p/stop-the-cog-railway-from-building-luxury-resort-on-mount-washington"
+      },
+      "geometry": {
+        "coordinates": [-71.302929, 44.270385],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stand With the Puyallup Tribe - No LNG Fracked Gas in the Salish Sea",
+        "description": "A facility for fracking in the Puget Sound is being proposed that would not only harm the environment due to water pollution and toxic contamination but also the lives of the indigenous Puyallup Tribe as well because of their reliance on salmon populations in the area.",
+	  "URL": "https://www.change.org/p/jay-inslee-stand-with-the-puyallup-tribe-no-lng-fracked-gas-in-the-salish-sea"
+      },
+      "geometry": {
+        "coordinates": [-122.484898, 47.421697],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ban Intentional Balloon Releases in Virginia",
+        "description": "There are many known sites of balloon releases in Virginia, which leads to a lot of pollution once they pop and come back down to the ground, often washing up on beaches in the state.",
+	  "URL": "https://www.change.org/p/virginia-state-legislature-ban-balloon-releases-in-virginia"
+      },
+      "geometry": {
+        "coordinates": [-76.689647, 37.151796],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Demand the State of Vermont Save Camp Sunrise",
+        "description": "A public access shoreline is being sold to a private party, taking the resource away from locals in the area who are reliant on the lake and also potentially opening up contamination concerns.",
+	  "URL": "https://www.change.org/p/demand-the-state-of-vermont-save-camp-sunrise"
+      },
+      "geometry": {
+        "coordinates": [-73.263691, 43.758777],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop Forest Clear Cutting in Upper Michigan",
+        "description": "Deforestation in Upper Michigan is occurring currently, and more is scheduled to be cut in the name of profit.",
+	  "URL": "https://www.change.org/p/david-rassel-stop-forest-clear-cutting-in-michigan"
+      },
+      "geometry": {
+        "coordinates": [-84.05495397805936, 45.19524472943295],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop the High Voltage Transmission Line Route Through Our Wetland",
+        "description": "Little Swamp Sanctuary is home to many endangered species and Michigan Electric Transmission Company wants to route high transmission wires through these wetlands that are detrimental to the environment and endangered species.",
+	  "URL": "https://www.change.org/p/international-transmission-company-itc-aka-itc-holdings-save-our-sanctuary-stop-the-high-voltage-transmission-line-route-through-our-wetland"
+      },
+      "geometry": {
+        "coordinates": [-68.39364228885013, 44.65679405888506],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fix the Water Crisis in Flint, Michigan",
+        "description": "Water crisis in Flint Michigan has been ongoing as the eroding and poisonous water pipes are not being replaced with infrastructure repairs.",
+	  "URL": "https://www.change.org/p/donald-trump-fix-the-water-crisis-in-flint-michigan"
+      },
+      "geometry": {
+        "coordinates": [-68.39364228885013, 44.65679405888506],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Protect Minnesota Loons from Lead Poisoning",
+        "description": "Lead poisoning caused by the BP oil spill still needs to be cleaned up and legislation continues to put it off.",
+	  "URL": "https://www.change.org/p/sen-bill-ingebrigtsen-urgent-help-needed-protect-minnesota-loons-from-lead-poisoning"
+      },
+      "geometry": {
+        "coordinates": [-94.00609131134728, 47.19483350139719],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Save Graham Lake",
+        "description": "Enbridge and EXONN have committed multiple acts of environmental terrorism and negatively impact Minnesota wildlife and people.",
+	  "URL": "https://www.change.org/p/sen-bill-ingebrigtsen-urgent-help-needed-protect-minnesota-loons-from-lead-poisoning"
+      },
+      "geometry": {
+        "coordinates": [-94.49235577114533, 44.56249596109751],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Preserve the Line Creek Forest",
+        "description": "Line Creek Forest is falling victim to deforestation for urbanization plans.",
+	  "URL": "https://www.change.org/p/preserve-the-line-creek-forest"
+      },
+      "geometry": {
+        "coordinates": [-94.56833883825722, 39.1893570879922],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Preserve the Natural Beauty of Kolob Mountain",
+        "description": "Plans for a camping facility in the Zion National Park are being put into action, which will increase harmful traffic in the area and lead to an increased risk of wildfires from campers in the dry seasons who aren’t careful enough.",
+	  "URL": "https://www.change.org/p/planning-commission-of-washington-county-preserve-the-natural-beauty-of-kolob-mountain-in-virgin-utah-for-future-generations"
+      },
+      "geometry": {
+        "coordinates": [-113.176985, 37.196459],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop the Uinta Basin Railway",
+        "description": "A railway is being proposed that will not only pollute many waterways across areas stricken with drought but will cause a massive increase in oil production which will release massive amounts of carbon dioxide into the atmosphere.",
+        "URL": "https://www.change.org/p/tell-joe-biden-to-stop-the-uinta-basin-railway"
+      },
+      "geometry": {
+        "coordinates": [-109.524095, 40.444045],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Protect Parleys Canyon and the Wasatch Front",
+        "description": "A mining operation was proposed in this protected area which will cause destruction to the environment resulting in air and water pollution, mas well as an increased risk of avalanches.",
+	  "URL": "https://www.change.org/p/spencer-j-cox-protect-parleys-canyon-and-the-wasatch-front"
+      },
+      "geometry": {
+        "coordinates": [-111.798871, 40.712838],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Preserve Utah's Grand Staircase-Escalante National Monument",
+        "description": "This National monument is getting its funding cut with favoritism being given to extractive industry partnerships instead, which will only cause harm to this precious natural resource. ",
+	  "URL": "https://www.change.org/p/united-states-department-of-the-interior-preserve-utah-s-grand-staircase-escalante-national-monument"
+      },
+      "geometry": {
+        "coordinates": [-111.593576, 37.460314],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Protect Point of the Mountain",
+        "description": "Mining in this area causes harmful particulate dust to travel through the air, which can cause lung conditions and cancer in local residents and foundational erosion from explosions at the Point of the Mountain.",
+	  "URL": "https://www.change.org/p/protect-point-of-the-mountain-4a98e9f8-acac-4e31-95c1-9c06937b1824"
+      },
+      "geometry": {
+        "coordinates": [-111.848346, 40.492296],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop Amusement Park Approval on Flathead Lake",
+        "description": "Flathead Lake is at risk of having the preservation of local wildlife harmed due to the construction of an amusement park",
+	  "URL": "https://www.change.org/p/lake-county-commissioner-stop-amusement-park-approval-on-flathead-lake"
+      },
+      "geometry": {
+        "coordinates": [-114.12339119783417, 47.87544820443813],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "End the Husker Balloon Release Tradition",
+        "description": "Environmentally harmful traditions such as releasing balloons for the Husker games are unnecessary and spread litter.",
+	  "URL": "https://www.change.org/p/university-of-nebraska-at-lincoln-end-the-husker-balloon-release-tradition"
+      },
+      "geometry": {
+        "coordinates": [-96.70051921317172 , 40.82026963234085],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Protect Wildlife and Humans - Help Prevent Forest Fires Before It's Too Late",
+        "description": "Human caused wildfires need to be regulated and prevented all throughout the United States.",
+	  "URL": "https://www.change.org/p/united-states-fish-and-wildlife-service-protect-wildlife-and-humans-help-prevent-wildfires-before-it-s-too-late"
+      },
+      "geometry": {
+        "coordinates": [-121.756849, 45.632768],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Save New Hampshire Landscapes by Denying Northern Pass Application",
+        "description": "Northern Pass is a high voltage transmission line cutting through the New Hampshire environment causing damage to the wildlife."  ,
+	  "URL": "https://www.change.org/p/new-hampshire-site-evaluation-committee-deny-northern-pass-application"
+      },
+      "geometry": {
+        "coordinates": [-71.4740906739107, 44.382763171656975],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop DuPont Chemical from Poisoning New Jersey Families",
+        "description": "Toxic pollution in the Pompton Lakes needs to finally be cleaned as DuPont Chemical has failed to clean up their mess.",
+	  "URL": "https://www.change.org/p/stop-dupont-chemical-from-poisoning-new-jersey-families"
+      },
+      "geometry": {
+        "coordinates": [-74.287600, 41.004998],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stand Up for Environmental Justice",
+        "description": "As fracking expands across the southeastern United States, more and more homes are being threatened by being in the blast zone. The residents are worried about their water supplies, land being tore up around them, and generally being disrupted by the fracking operations. These fracking operations harm streams, groundwater, air quality, wildlife, rural communities and communities of color, public health, and public lands significantly.",
+	  "URL": "https://www.change.org/p/stand-up-for-environmental-justice-stop-fracked-gas-pipelines-in-wv-va-nc-now"
+      },
+      "geometry": {
+        "coordinates": [-78.21031948171425, 34.897987731983164],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Keep North Carolina Free of Toxic Air",
+        "description": "New Indy, a facility in North Carolina, is slowly poisoning nearby residents by releasing toxic chemicals in the air. They aren't taking the proper steps to control toxic emissions, and this is leading them to pollute the air regularly.",
+	  "URL": "https://www.change.org/p/nc-government-municipal-officials-keep-north-carolina-free-of-toxic-air"
+      },
+      "geometry": {
+        "coordinates": [-78.83433349706202, 35.88879432191771],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Save the Forest and Trees of New Hanover County in North Carolina",
+        "description": "The residents of New Hanover Country are urging the commissioners of their county to deny proposed changes to the Unified Development Ordinance that would gut forest and tree protections for approximately 15,000 acres of forest within the county.",
+	  "URL": "https://www.change.org/p/save-the-forest-trees-new-hanover-county-north-carolina"
+      },
+      "geometry": {
+        "coordinates": [-77.955491, 34.265988],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop the NEXUS Pipeline",
+        "description": "The NEXUS Pipeline would bring fracked natural gas through both residential and wetland areas, creating too much risk to the environment and inhabitants of the surrounding area.",
+	  "URL": "https://www.change.org/p/federal-energy-regulatory-commission-ferc-stop-the-nexus-pipeline"
+      },
+      "geometry": {
+        "coordinates": [-84.46622342757283, 41.50277116044378],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Save 200 Acres of Oregon Coast Forest Before Boy Scouts Officials Make it a Golf Course",
+        "description": "Coastal Forest is scheduled to be destroyed for the purpose of the creation of a golf course because of The Boy Scouts of America’s Cascade Pacific Council.",
+	  "URL": "https://www.change.org/p/boy-scouts-of-america-cascade-pacific-council-nw-oregon-save-200-acres-of-oregon-coast-forest-before-boy-scout-officials-make-it-a-golf-course"
+      },
+      "geometry": {
+        "coordinates": [-123.77384196858553, 45.38265970778438],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Save the Oregon Coast",
+        "description": "Invasive species such as European Beachgrass must be taken care of in order to preserve the Oregon Coast.",
+	  "URL": "https://www.change.org/p/save-the-oregon-coast-ban-the-planting-and-start-removing-invasive-european-beachgrass"
+      },
+      "geometry": {
+        "coordinates": [-124.047140, 44.617449],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Deny the Northwest Metals Air Permit",
+        "description": "Northwest Metals is attempting to restart operations in Oregon and have previously caused damage to the environment and ignored environmental regulations.",
+	  "URL": "https://www.change.org/p/oregon-department-of-environemental-quality-oregon-deq-deny-the-nw-metals-air-permit"
+      },
+      "geometry": {
+        "coordinates": [-122.759106, 45.609292],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop Waste Farms in Pennsylvania",
+        "description": "Out of date regulations in Pennsylvania allow the disposal of waste materials containing many harmful metals and chemicals into farmlands, even though more recent research has proved they are extremely harmful to the environment.",
+	  "URL": "https://www.change.org/p/stop-waste-farms-in-pennsylvania"
+      },
+      "geometry": {
+        "coordinates": [-77.198258, 40.203383],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop Transource Energy Power Lines IEC Project in Pennsylvania",
+        "description": "A power line project is being planned that will adversely affect the environment including the local natural resources of streams, creeks, woodlands, fields, wildlife and foliage.",
+	  "URL": "https://www.change.org/p/pennsylvania-public-utility-commission-puc-stop-transource-power-lines-in-pennsylvania "
+      },
+      "geometry": {
+        "coordinates": [-77.208530, 39.974460],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Say No to Offshore Drilling on South Carolina's Pristine Coast",
+        "description": "Citizens have voiced their opposition to installing oil rigs off the coast of South Carolina because it could be devastating to marine life and interrupt the natural birthing cycles of wildlife on land as well.",
+	  "URL": "https://www.change.org/p/tim-scott-say-no-to-offshore-drilling-on-south-carolina-s-pristine-coast"
+      },
+      "geometry": {
+        "coordinates": [-80.677282, 32.437692],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "LFCMS Period 7-Light for the Dakota Access Pipeline",
+        "description": "An oil pipeline is being built through the sacred lands of the indigenous Standing Rock Sioux tribe, leading to great potential for leakage and spills into the essential natural water resources in the area.",
+	  "URL": "https://www.change.org/p/environmental-protection-agency-lfcms-period-7-light-for-the-dakota-access-pipeline"
+      },
+      "geometry": {
+        "coordinates": [-101.050210, 45.746641],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Preserve French Creek Within Custer State Park",
+        "description": "A proposed decision to dump wastewater into French Creek is being considered, which will lead to contamination and bad water quality, as well as hurting the local trout populations.",
+	  "URL": "https://www.change.org/p/urgent-preserve-french-creek-let-our-politicians-and-representatives-know-that-you-do-not-support-the-discharge-of-wastewater-into-french-creek"
+      },
+      "geometry": {
+        "coordinates": [-103.368823, 43.761274],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hands Off Spearfish Canyon",
+        "description": "A gold exploration company is seeking permission to drill in roughly two dozen places, which will cause harm to the environment and is a threat tot the natural resources in the area.",
+	  "URL": "https://www.change.org/p/gold-project-will-impact-spearfish-canyon"
+      },
+      "geometry": {
+        "coordinates": [-103.807316, 44.482830],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Deny the Expansion of the Middle Point Landfill",
+        "description": "Officials are trying to expand a landfill that filled up sooner than they expected into surrounding areas that would pollute more of the environment against the initial plans for the county and cause more health and air pollution.",
+	  "URL": "https://www.change.org/p/we-are-asking-every-elected-official-and-decision-maker-to-deny-the-expansion-of-the-middle-point-landfill"
+      },
+      "geometry": {
+        "coordinates": [-86.362408, 35.939754],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop Plans to Dump Treated Sewage into the Sensitive Upper Nueces River Basin",
+        "description": "A permit is being considered by local government which would permit the dumping of hundreds of thousands of gallons of wastewater into a small creek, overwhelming the ecosystem with polluted water.",
+	  "URL": "https://www.change.org/p/tceq-keep-spring-fed-creeks-in-texas-clean"
+      },
+      "geometry": {
+        "coordinates": [-97.490816, 27.837156],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Save Southeast Texas from Flooding",
+        "description": "The Adams Bayou is in desperate need of dredging and has been neglected, causing flooding in the surrounding areas, putting residents in danger and at risk of having to move.",
+	  "URL": "https://www.change.org/p/united-states-army-corp-of-engineers-save-southeast-texas-from-flooding"
+      },
+      "geometry": {
+        "coordinates": [-93.766251, 30.103656],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
