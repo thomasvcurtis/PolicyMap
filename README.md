@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <br>
-  <img src="images/envirowatch-thumbnail.png" alt="PolicyMap" width="200"></a>
+  <img src="/images/envirowatch-thumbnail.png" alt="PolicyMap" width="200"></a>
   <br>
   PolicyMap
   <br>
