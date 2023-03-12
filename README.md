@@ -1,12 +1,9 @@
-<center># PolicyMap</center>
-
+<h1> PolicyMap </h1>
 
 <h1 align="center">
   <br>
   <img src="/images/envirowatch-thumbnail.png" alt="PolicyMap" width="200"></a>
-  <br>
-  PolicyMap
-  <br>
+
 </h1>
 
 <h4 align="center">A webpage that allows people to directly impact issues on a national scale.<br><a href="https://devpost.com/software/envirowatch-pjauc6" target="_blank">DevPost</a>.</h4>
