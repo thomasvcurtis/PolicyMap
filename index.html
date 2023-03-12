@@ -11,16 +11,47 @@
         <script src="js/change_buttons.js"></script>
     </head>
     <body onload="makeMap()">
-        <div class="tabs">
-            <button class="tabslink" onclick="openTab(event, 'Home')" id="defaultOpen">Home</button>
-            <button class="tabslink" onclick="openTab(event, 'About_Us')">About Us</button>
+        <div class="header">
+            <h1>Envirowatch</h1>
         </div>
-        <div id="Home" class="tabcontent">
-            <h3>Home</h3>
+        <div class="tabs">
+            <button class="tabslink" onclick="openTab(event, 'Current_Petition')" id="tagElement">Current Petition</button>
+            <button class="tabslink" onclick="openTab(event, 'About_Us' )" id="defaultOpen">About Us</button>
+        </div>
+        <div id="Current_Petition" class="tabcontent">
+            <h3 id="h3_hide">Current Petition</h3>
+            <p id="p_hide">You haven't selected a partition!</p>
+            <p id="petition_info">Test</p>
         </div>
         <div id="About_Us" class="tabcontent">
-            <h3>About Us</h3>
+            <h4>About Us</h4>
+            <p>Welcome to Enviropetition_infowatch, a website dedicated to showcasing petitions on change.org related to cleaning up ecological disasters,
+                preventing climate change, and promoting sustainability in all areas of life. <br /><br />
+
+                We are a group of passionate individuals who are committed to raising awareness about the environmental issues that are affecting 
+                our planet. Our goal is to make it easy for you to find and support important petitions that are working towards making the world a 
+                better place. <br /><br />
+                
+                We believe that everyone has a role to play in protecting the environment, and that small actions can lead to big changes. By sharing 
+                these petitions, we hope to inspire more people to take action and make a positive impact on the world around them. <br /><br />
+                
+                Our team carefully curates each petition that we feature on our website, ensuring that they meet our high standards for quality and 
+                relevance. We only select petitions that are actively working towards creating change and have a clear impact on the environment. <br /><br />
+                
+                We are not affiliated with change.org in any way, but we believe that it is an important platform for individuals and organizations 
+                to raise their voices and create meaningful change. By featuring these petitions on our website, we hope to amplify their reach and 
+                help them gain more support. <br /><br />
+                
+                We invite you to explore our website and discover the many petitions that are working towards a cleaner, healthier, and more sustainable 
+                future for all. Join us in making a difference today!
+            </p>
         </div>
+        <script>
+            document.getElementById("defaultOpen").click();
+        </script>
         <div id="map"></div>
     </body>
+    <footer>
+        <p id="copyright"> &copy created by Bryant Whitaker, Colby Lilly, Kayla Senczyszyn, and Thomas Curtis</p>
+    </footer>
 </html>
