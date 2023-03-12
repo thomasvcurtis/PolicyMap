@@ -9,7 +9,7 @@
 <p>
   <a href="#Inspiration">Inspiration</a> •
   <a href="#What-it-does">What it Does</a> •
-  <a href="#How-we-build-it">How we build it</a> •
+  <a href="#How-we-built-it">How we built it</a> •
   <a href="#How-to-use">How to use</a> •
   <a href="#Team-Members">Team Members</a> 
 
@@ -23,10 +23,10 @@
 
 ## What it does
 <p> This project accesses a data file containing a variety of environmentally unfriendly projects and policies across the United States and displays them on an interactive map where users can click on individual pins to see more information and access petitions about the specific cause <p>
+  
+## How we built it
 
-## How we build it
-
- <p> We used the Mapbox API with Mapbox GL JS to help us design the layout of the interactive map and filled a GEOJSON file with various data points that we researched on the website Change.org. We used some HTML, CSS, and JavaScript to create an appealing-looking webpage to host the map, data, and some information about our mission. </p>
+<p> We used the Mapbox API with Mapbox GL JS to help us design the layout of the interactive map and filled a GEOJSON file with various data points that we researched on the website Change.org. We used some HTML, CSS, and JavaScript to create an appealing-looking webpage to host the map, data, and some information about our mission. </p>
 
 
 ## How to use
