@@ -1,4 +1,4 @@
-<h1> PolicyMap </h1>
+<center> <h1>PolicyMap</h1> </center>
 
 <h1 align="center">
   <br>
