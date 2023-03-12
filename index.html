@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<<<<<<< HEAD
     <head>
         <meta charset="utf-8">
         <title>Display a map on a webpage</title>
@@ -34,4 +35,70 @@
         </script>
     -->
     </body>
+=======
+    <!-- Head Definition -->
+    <head>
+        <meta charset="utf-8">
+        <title>Envirowatch</title>
+        <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+        <!-- MapBox API -->
+        <link href="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css" rel="stylesheet">
+        <script src="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js"></script>
+        <!-- Own CSS and JavaScript files -->
+        <link href="css/styles.css" rel="stylesheet">
+        <script src="js/map.js"></script>
+        <script src="js/change_buttons.js"></script>
+    </head>
+    <!-- Body Definition -->
+    <body onload="makeMap()">
+        <div class="header">
+            <h1>Envirowatch</h1>
+        </div>
+        <!-- Beginning of menu definition -->
+        <div class="tabs">
+            <button class="tabslink" onclick="openTab(event, 'Current_Petition')" id="tagElement">Current Petition</button>
+            <button class="tabslink" onclick="openTab(event, 'About_Us' )" id="defaultOpen">About Us</button>
+        </div>
+        <!-- Current Petition Tab -->
+        <div id="Current_Petition" class="tabcontent">
+            <h3 id="h3_hide">Current Petition</h3>
+            <p id="p_hide">You haven't selected a petition!</p>
+            <p id="petition_info"></p>
+        </div>
+        <!-- About Us Tab -->
+        <div id="About_Us" class="tabcontent">
+            <h4>About Us</h4>
+            <p>Welcome to Envirowatch, a website dedicated to showcasing petitions on change.org related to cleaning up ecological disasters,
+                preventing climate change, and promoting sustainability in all areas of life. <br /><br />
+
+                We are a group of passionate individuals who are committed to raising awareness about the environmental issues that are affecting 
+                our planet. Our goal is to make it easy for you to find and support important petitions that are working towards making the world a 
+                better place. <br /><br />
+                
+                We believe that everyone has a role to play in protecting the environment, and that small actions can lead to big changes. By sharing 
+                these petitions, we hope to inspire more people to take action and make a positive impact on the world around them. <br /><br />
+                
+                Our team carefully curates each petition that we feature on our website, ensuring that they meet our high standards for quality and 
+                relevance. We only select petitions that are actively working towards creating change and have a clear impact on the environment. <br /><br />
+                
+                We are not affiliated with change.org in any way, but we believe that it is an important platform for individuals and organizations 
+                to raise their voices and create meaningful change. By featuring these petitions on our website, we hope to amplify their reach and 
+                help them gain more support. <br /><br />
+                
+                We invite you to explore our website and discover the many petitions that are working towards a cleaner, healthier, and more sustainable 
+                future for all. Join us in making a difference today!
+            </p>
+        </div>
+        <!-- Opens the About Us tab by default -->
+        <script>
+            document.getElementById("defaultOpen").click();
+        </script>
+        <!-- Div tags that hold the map -->
+        <div id="map"></div>
+    </body>
+    <!-- Footer Definition -->
+    <footer>
+        <p id="copyright"> &copy created by Bryant Whitaker, Colby Lilly, Kayla Senczyszyn, and Thomas Curtis</p>
+    </footer>
+>>>>>>> front-end
 </html>
