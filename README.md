@@ -4,6 +4,8 @@
   <img src="/images/envirowatch-thumbnail.png" alt="PolicyMap" width="200"></a>
 </h1>
 
+<p>Dearborn 2023 Hackathon: <b>Social Good Track Winner<b></p>
+
 <h4>A webpage that allows people to directly impact issues on a national scale.<br><a href="https://devpost.com/software/envirowatch-pjauc6" target="_blank">DevPost</a>.</h4>
 
 <p>
